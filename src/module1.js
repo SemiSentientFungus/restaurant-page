@@ -1,4 +1,4 @@
-import image from './restaurant.jpeg'
+    import image from './restaurant.jpeg'
 
 const makeMain = (element) => {
     //wipes the body container to allow for new content to be appended
